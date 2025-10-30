@@ -473,9 +473,9 @@ copies or substantial portions of the Software.
 **Kyubey-kub**
 
 - GitHub: [@Kyubey-kub](https://github.com/Kyubey-kub)
-- Email: your.email@example.com
-- Portfolio: [Your Portfolio URL]
-- LinkedIn: [Your LinkedIn Profile]
+- Email: somprasongwasuwid@gmail.com
+- Portfolio: [Your Portfolio URL](https://imaginative-dusk-9f95ff.netlify.app/#home)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/somprasong-wasuwid-271b64350/)
 
 ---
 
